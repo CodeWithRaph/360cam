@@ -12,6 +12,11 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.raph.cam360",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
